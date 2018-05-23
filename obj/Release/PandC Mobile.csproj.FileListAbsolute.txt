@@ -1,0 +1,86 @@
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\PandC Mobile.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\PandC Mobile.pdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\com.PandC_Mobile.PandC_Mobile.apk
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\com.PandC_Mobile.PandC_Mobile-Signed.apk
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\MySql.Data.CF.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Plugin.CurrentActivity.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Plugin.Geolocator.Abstractions.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Plugin.Geolocator.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Plugin.Permissions.Abstractions.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Plugin.Permissions.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Xamarin.Android.Support.Annotations.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Plugin.CurrentActivity.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Plugin.Geolocator.pdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Plugin.Geolocator.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Plugin.Geolocator.dll.mdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Plugin.Geolocator.Abstractions.pdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Plugin.Permissions.pdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Plugin.Permissions.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Plugin.Permissions.dll.mdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Plugin.Permissions.Abstractions.pdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\Plugin.Permissions.Abstractions.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\PandC Mobile.csprojResolveAssemblyReference.cache
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\PandC Mobile.csproj.CoreCompileInputs.cache
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\PandC Mobile.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\PandC Mobile.pdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\bin\com.PandC_Mobile.PandC_Mobile.apk
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\res\layout\menu.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\res\layout\clientcapture.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\res\layout\layout1.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\res\layout\scann.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\res\layout\lostool.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\res\layout\sla_onsite.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\res\layout\sla_offsite.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\res\layout\main.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\res\values\strings.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\res\drawable\icon1.png
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\res\menu\mainmenu.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\res\drawable\icon.png
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\R.cs.flag
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\uploadflags.txt
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\PandC Mobile.dll.mdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\PandC Mobile.dll.mdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Release\PandC Mobile.dll
+bin\Release\Mono.Android.pdb
+bin\Release\mscorlib.pdb
+bin\Release\System.Core.pdb
+bin\Release\System.Data.pdb
+bin\Release\System.pdb
+bin\Release\System.Xml.pdb
+bin\Release\System.Xml.Linq.pdb
+bin\Release\System.Net.Http.pdb
+bin\Release\System.Runtime.Serialization.pdb
+bin\Release\System.ServiceModel.Internals.pdb
+bin\Release\System.Numerics.pdb
+bin\Release\System.Transactions.pdb
+bin\Release\Mono.Data.Tds.pdb
+bin\Release\Mono.Security.pdb
+bin\Release\System.ComponentModel.Composition.pdb
+bin\Release\I18N.pdb
+bin\Release\I18N.West.pdb
+obj\Release\linksrc\PandC Mobile.dll.mdb
+obj\Release\linksrc\Plugin.Geolocator.dll.mdb
+obj\Release\linksrc\Plugin.Permissions.dll.mdb
+obj\Release\linksrc\Mono.Android.pdb
+obj\Release\linksrc\mscorlib.pdb
+obj\Release\linksrc\Plugin.Geolocator.Abstractions.pdb
+obj\Release\linksrc\Plugin.Permissions.Abstractions.pdb
+obj\Release\linksrc\System.Core.pdb
+obj\Release\linksrc\System.Data.pdb
+obj\Release\linksrc\System.pdb
+obj\Release\linksrc\System.Xml.pdb
+obj\Release\linksrc\System.Xml.Linq.pdb
+obj\Release\linksrc\System.Net.Http.pdb
+obj\Release\linksrc\System.Runtime.Serialization.pdb
+obj\Release\linksrc\System.ServiceModel.Internals.pdb
+obj\Release\linksrc\System.Numerics.pdb
+obj\Release\linksrc\System.Transactions.pdb
+obj\Release\linksrc\Mono.Data.Tds.pdb
+obj\Release\linksrc\Mono.Security.pdb
+obj\Release\linksrc\System.ComponentModel.Composition.pdb
+obj\Release\linksrc\I18N.pdb
+obj\Release\linksrc\I18N.West.pdb

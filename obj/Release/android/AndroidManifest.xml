@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.PandC_Mobile.PandC_Mobile" android:versionCode="13" android:versionName="1.13" android:installLocation="internalOnly">
+  <uses-sdk android:minSdkVersion="20" android:targetSdkVersion="25" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.INSTALL_LOCATION_PROVIDER" />
+  <uses-permission android:name="android.permission.INSTALL_PACKAGES" />
+  <uses-permission android:name="android.permission.WRITE_USER_DICTIONARY" />
+  <uses-permission android:name="android.permission.WRITE_APN_SETTINGS" />
+  <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+  <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+  <uses-permission android:name="android.permission.LOCATION_HARDWARE" />
+  <uses-permission android:name="android.permission.CLEAR_APP_CACHE" />
+  <uses-permission android:name="android.permission.CLEAR_APP_USER_DATA" />
+  <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+  <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+  <uses-permission android:name="android.permission.MANAGE_APP_TOKENS" />
+  <uses-permission android:name="android.permission.PERSISTENT_ACTIVITY" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.READ_INPUT_STATE" />
+  <uses-permission android:name="android.permission.SET_DEBUG_APP" />
+  <uses-permission android:name="android.permission.UPDATE_DEVICE_STATS" />
+  <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+  <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+  <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+  <uses-permission android:name="android.permission.ACCESS_CHECKIN_PROPERTIES" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.WRITE_GSERVICES" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-feature android:name="android.hardware.location" android:required="false" />
+  <uses-feature android:name="android.hardware.location.gps" android:required="false" />
+  <uses-feature android:name="android.hardware.location.network" android:required="false" />
+  <application android:label="PandC_Mobile" android:icon="@drawable/icon" android:name="md5fe2c8a175842a92dbf81365707770207.MainApplication" android:allowBackup="true">
+    <activity android:label="New Client Form" android:screenOrientation="portrait" android:name="md5fe2c8a175842a92dbf81365707770207.client_capture" />
+    <activity android:label="lostool" android:screenOrientation="portrait" android:name="md5fe2c8a175842a92dbf81365707770207.lostool" />
+    <activity android:icon="@drawable/icon" android:label="P and C Mobile" android:screenOrientation="portrait" android:name="md5fe2c8a175842a92dbf81365707770207.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Menu" android:screenOrientation="portrait" android:name="md5fe2c8a175842a92dbf81365707770207.Menu" />
+    <activity android:label="scan" android:screenOrientation="portrait" android:name="md5fe2c8a175842a92dbf81365707770207.scan" />
+    <activity android:label="leave_site" android:screenOrientation="portrait" android:name="md56a973777d4dfb0fdbe4c7a429beebc10.leave_site" />
+    <activity android:label="onsite_capture" android:screenOrientation="portrait" android:name="md56a973777d4dfb0fdbe4c7a429beebc10.onsite_capture" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.PandC_Mobile.PandC_Mobile.mono.MonoRuntimeProvider.__mono_init__" />
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+  </application>
+</manifest>

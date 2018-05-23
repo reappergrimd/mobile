@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.PandC_Mobile.PandC_Mobile" android:versionCode="400008" android:versionName="1.8" android:installLocation="internalOnly">
+  <uses-sdk android:minSdkVersion="20" android:targetSdkVersion="25" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.INSTALL_LOCATION_PROVIDER" />
+  <uses-permission android:name="android.permission.INSTALL_PACKAGES" />
+  <uses-permission android:name="android.permission.WRITE_USER_DICTIONARY" />
+  <uses-permission android:name="android.permission.WRITE_APN_SETTINGS" />
+  <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+  <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+  <uses-permission android:name="android.permission.LOCATION_HARDWARE" />
+  <uses-permission android:name="android.permission.CLEAR_APP_CACHE" />
+  <uses-permission android:name="android.permission.CLEAR_APP_USER_DATA" />
+  <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+  <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+  <uses-permission android:name="android.permission.MANAGE_APP_TOKENS" />
+  <uses-permission android:name="android.permission.PERSISTENT_ACTIVITY" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.READ_INPUT_STATE" />
+  <uses-permission android:name="android.permission.SET_DEBUG_APP" />
+  <uses-permission android:name="android.permission.UPDATE_DEVICE_STATS" />
+  <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+  <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+  <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+  <uses-permission android:name="android.permission.ACCESS_CHECKIN_PROPERTIES" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.WRITE_GSERVICES" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-feature android:name="android.hardware.location" android:required="false" />
+  <uses-feature android:name="android.hardware.location.gps" android:required="false" />
+  <uses-feature android:name="android.hardware.location.network" android:required="false" />
+  <application android:label="PandC_Mobile" android:icon="@drawable/icon" android:name="md5fe2c8a175842a92dbf81365707770207.MainApplication" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="New Client Form" android:name="md5fe2c8a175842a92dbf81365707770207.client_capture" />
+    <activity android:icon="@drawable/icon" android:label="P and C Mobile" android:name="md5fe2c8a175842a92dbf81365707770207.MainActivity" />
+    <activity android:label="Menu" android:name="md5fe2c8a175842a92dbf81365707770207.Menu" />
+    <activity android:label="scan" android:name="md5fe2c8a175842a92dbf81365707770207.scan">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.PandC_Mobile.PandC_Mobile.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.PandC_Mobile.PandC_Mobile" />
+      </intent-filter>
+    </receiver>
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+  </application>
+</manifest>

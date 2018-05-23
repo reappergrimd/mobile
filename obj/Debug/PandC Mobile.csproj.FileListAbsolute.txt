@@ -1,0 +1,78 @@
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\PandC Mobile.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\PandC Mobile.pdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\com.PandC_Mobile.PandC_Mobile.apk
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\com.PandC_Mobile.PandC_Mobile-Signed.apk
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\MySql.Data.CF.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Plugin.Geolocator.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Plugin.Permissions.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Plugin.Geolocator.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Plugin.Permissions.pdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Plugin.Permissions.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\PandC Mobile.csproj.CoreCompileInputs.cache
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\PandC Mobile.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\PandC Mobile.pdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\android\bin\com.PandC_Mobile.PandC_Mobile.apk
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\res\layout\menu.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\res\layout\clientcapture.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\res\layout\layout1.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\res\layout\scann.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\res\layout\main.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\res\values\strings.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\res\drawable\icon1.png
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\res\menu\mainmenu.xml
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\res\drawable\icon.png
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\R.cs.flag
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\uploadflags.txt
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\PandC Mobile.dll.mdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\android\assets\PandC Mobile.dll.mdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\bin\Debug\PandC Mobile.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.Data.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\System.Numerics.pdb
+bin\Debug\System.Transactions.pdb
+bin\Debug\Mono.Data.Tds.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\PandC Mobile.dll.mdb
+obj\Debug\linksrc\Plugin.Geolocator.dll.mdb
+obj\Debug\linksrc\Plugin.Permissions.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\Plugin.Geolocator.Abstractions.pdb
+obj\Debug\linksrc\Plugin.Permissions.Abstractions.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.Data.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\System.Transactions.pdb
+obj\Debug\linksrc\Mono.Data.Tds.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

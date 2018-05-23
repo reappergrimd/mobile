@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <!--tools:actionBarNavMode="tabs"
+    tools:menu="mainmenu"-->
+  <GridLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/gridLayout1">
+    <Button
+        android:text="Submit"
+        android:id="@+id/btndetails" />
+  </GridLayout>
+  <TableLayout
+      android:minWidth="25px"
+      android:minHeight="25px"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/tableLayout1">
+    <TableRow
+        android:id="@+id/tableRow1">
+      <TextView
+          android:text="Client Name:"
+          android:textAppearance="?android:attr/textAppearanceSmall"
+          android:id="@+id/tvName"
+          android:layout_column="0" />
+      <EditText
+          android:id="@+id/editText1"
+          android:layout_column="1"
+          android:layout_width="250.0dp"
+          android:layout_marginRight="2.0dp"
+          android:imeOptions="actionNext"
+          android:inputType="text" />
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow2">
+      <TextView
+          android:text="Client Surname:"
+          android:textAppearance="?android:attr/textAppearanceSmall"
+          android:id="@+id/tvSurName"
+          android:layout_column="0" />
+      <EditText
+          android:id="@+id/editText2"
+          android:layout_column="1"
+          android:imeOptions="actionNext"
+          android:inputType="text" />
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow3">
+      <TextView
+          android:text="Client Telephone:"
+          android:textAppearance="?android:attr/textAppearanceSmall"
+          android:id="@+id/tvtel"
+          android:layout_column="0" />
+      <EditText
+          android:id="@+id/editText3"
+          android:layout_column="1"
+          android:imeOptions="actionNext"
+          android:inputType="phone" />
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow4">
+      <TextView
+          android:text="Client Cell:"
+          android:textAppearance="?android:attr/textAppearanceSmall"
+          android:id="@+id/tvCell"
+          android:layout_column="0" />
+      <EditText
+          android:id="@+id/editText4"
+          android:layout_column="1"
+          android:imeOptions="actionNext"
+          android:inputType="phone" />
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow5">
+      <TextView
+          android:text="Client Email:"
+          android:textAppearance="?android:attr/textAppearanceSmall"
+          android:id="@+id/tvEmail"
+          android:layout_column="0" />
+      <EditText
+          android:id="@+id/editText5"
+          android:layout_column="1"
+          android:imeOptions="actionNext"
+          android:inputType="textEmailAddress" />
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow6">
+      <TextView
+          android:text="Survey Address"
+          android:textAppearance="?android:attr/textAppearanceSmall"
+          android:id="@+id/textView3"
+          android:layout_column="0" />
+      <EditText
+          android:id="@+id/editText6"
+          android:layout_column="1"
+          android:imeOptions="actionDone"
+          android:inputType="text" />
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow7">
+      <TextView
+          android:text="Medium Text"
+          android:textAppearance="?android:attr/textAppearanceMedium"
+          android:layout_column="1"
+          android:id="@+id/textView8" />
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow8">
+      <TextView
+          android:text="Medium Text"
+          android:textAppearance="?android:attr/textAppearanceMedium"
+          android:layout_column="1"
+          android:id="@+id/textView9" />
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow9"
+        android:minWidth="25px"
+        android:minHeight="25px">
+      <TextView
+          android:text="Medium Text"
+          android:textAppearance="?android:attr/textAppearanceMedium"
+          android:layout_column="1"
+          android:id="@+id/textView14" />
+    </TableRow>
+  </TableLayout>
+  <TextView
+      android:text="Text"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/textView2"
+      android:visibility="invisible" />
+  <TextView
+      android:textAppearance="?android:attr/textAppearanceMedium"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/tvTips" />
+  <TextView
+      android:text="Text"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/textView1"
+      android:visibility="invisible" />
+  <Button
+      android:layout_width="fill_parent"
+      android:textAppearance="?android:attr/textAppearanceMedium"
+      android:layout_height="wrap_content"
+      android:id="@+id/get_address_button"
+      android:text="Get Address"
+      android:visibility="invisible"
+      android:layout_marginBottom="0.0dp" />
+</LinearLayout>

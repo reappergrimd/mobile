@@ -1,0 +1,22 @@
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\PandC Mobile.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\Java.Interop.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\Mono.Android.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\mscorlib.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\MySql.Data.CF.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\Plugin.CurrentActivity.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\Plugin.Geolocator.Abstractions.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\Plugin.Geolocator.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\Plugin.Permissions.Abstractions.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\Plugin.Permissions.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\System.Core.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\System.Data.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\System.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\System.Xml.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\System.Numerics.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\Mono.Security.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\I18N.dll
+C:\Users\philip.buckle\Documents\Visual Studio 2017\PandC Mobile\PandC Mobile\obj\Release\android\assets\I18N.West.dll

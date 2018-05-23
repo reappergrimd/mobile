@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">PandC Mobile</string>
+  <string name="menuItem1">Capture Wifi</string>
+  <string name="menuItem2">SLA tracking</string>
+  <string name="menuItem3">Assignment</string>
+</resources>
